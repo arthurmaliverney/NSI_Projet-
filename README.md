@@ -8,7 +8,7 @@ Groupe 1 : Maël, Mayeul, Pierre, Clément.C, Antoine.
 
 Objectifs  :
 - Réalisation d’une base de données qui répertorie les établissements, les bâtiments, les salles de classes, leurs identifiants, problème et domaine du problème…
-- Réalisation d’une seconde base de données qui répertorie les noms des enseignants et des techniciens leurs identifiants et leurs mots de passe.
+- Réalisation d'un mot de passe universelle pour accéder formulaire de la classe.
 
 Groupe 2 : Nicolas, Gary, Quentin. 
 
